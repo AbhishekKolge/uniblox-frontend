@@ -1,0 +1,26 @@
+.cartSideBar {
+  background-color: white;
+  position: fixed;
+  top: 5rem;
+  right: 0;
+  height: 100vh;
+  z-index: 100;
+  width: 20rem;
+  padding: 1rem;
+  box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.7);
+}
+
+.closeBtn {
+  top: 2rem !important;
+  right: 1em !important;
+}
+
+.removeCartButton {
+  top: 2rem !important;
+  right: -0.5rem !important;
+}
+
+.listContainer {
+  height: 70vh;
+  overflow: scroll;
+}
