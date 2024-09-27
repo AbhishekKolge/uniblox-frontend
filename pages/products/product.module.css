@@ -1,0 +1,17 @@
+.image {
+  width: 100%;
+  height: auto;
+}
+
+.originalPrice {
+  font-size: 1rem;
+  text-decoration: line-through;
+}
+
+.discountPrice {
+  font-size: 0.8rem;
+}
+
+.qtyInput {
+  width: 120px;
+}

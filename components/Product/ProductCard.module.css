@@ -1,0 +1,18 @@
+.productImage {
+  height: 15rem;
+  object-fit: cover;
+}
+
+.reviewTag {
+  bottom: 1rem;
+  left: 1rem;
+}
+
+.originalPrice {
+  font-size: 0.8rem;
+  text-decoration: line-through;
+}
+
+.discountPrice {
+  font-size: 0.8rem;
+}
