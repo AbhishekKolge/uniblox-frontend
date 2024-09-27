@@ -1,0 +1,17 @@
+.profileImageContainer {
+  border-radius: 50%;
+  width: 7rem;
+  height: 7rem;
+}
+
+.profileImageWrapper {
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+}
+
+.profileImage {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+}
