@@ -1,0 +1,4 @@
+.current {
+  background-color: var(--bs-black);
+  color: var(--bs-white);
+}
